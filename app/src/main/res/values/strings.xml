@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vladimirov CV</string>
+    <string name="name">Владіміров Олександр Сергійович</string>
+    <string name="internetError">Перевірте підключення до інтернету</string>
+</resources>
